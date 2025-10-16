@@ -1,4 +1,4 @@
-# CAR-SALES-DASHBOARD
+# Car_Sales_Dashboard
 ### Description-
 The Objective of this project is to develop an interactive and data-driven Car Sales Dashboard using Power BI that visualizes key performance indicators (KPIs) such as sales trends, revenue, and customer insights, enabling better business decisions and performance monitoring.
 
